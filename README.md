@@ -24,4 +24,5 @@ Por ser uma aplicação web estática, não há instalação.
 * **Game Loop:** Utiliza `requestAnimationFrame` para o ciclo principal e `setInterval` para os subsistemas atmosféricos.
 * **Estado e Persistência:** Sistema de gerenciamento de estado customizado persistido via `Window.localStorage`.
 
-observação: construido 99% com I.A, uma brincadeira/jogo para aprender a usar I.A e testar meus conhecimentos.
+observação: construido 97% com I.A, uma brincadeira/jogo para aprender a usar I.A e testar meus conhecimentos.
+Se você quiser contribuir com um café ou sugestões☕ -> Chave Pix aleatória: 54e28237-2c98-477a-88c7-a71589b0ee4f
