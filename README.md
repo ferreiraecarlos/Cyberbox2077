@@ -15,7 +15,7 @@ CyberBox 2077 mistura mecânicas de jogos incrementais (geração passiva de Byt
 
 ## 🚀 Como Jogar
 Por ser uma aplicação web estática, não há instalação.
-1. Acesse o jogo diretamente pelo navegador: 
+1. Acesse o jogo diretamente pelo navegador: https://ferreiraecarlos.github.io/Cyberbox2077/
 2. Ou baixe o repositório, extraia os arquivos e abra o `index.html` em qualquer navegador moderno.
 *Nota: O progresso é salvo automaticamente no `LocalStorage` do seu navegador.*
 
